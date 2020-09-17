@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **bindian0509/bindian0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bharatv@outlook.in
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Join me to find out
--->
+
