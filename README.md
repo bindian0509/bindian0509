@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Docker/Kubernetes 
 - 💬 Ask me about Java, SQL or NoSQL database
 - 📫 How to reach me: bharatv@outlook.in
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Join me to find out
