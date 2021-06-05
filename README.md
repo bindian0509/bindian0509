@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Python, Go and Kubernetes
-- 🧓 I am seasoned programmer in Java, Spring and MongoDB 
+- 🧓 I'm a seasoned programmer in Java, Spring and MongoDB 
 - 🌱 I’m currently learning AWS Cloud along with K8s
 - 👯 I’m looking to collaborate on system desiging and coding. 
 - 🤔 I’m looking for help with Docker/Kubernetes 
