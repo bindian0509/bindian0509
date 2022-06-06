@@ -1,6 +1,6 @@
 
 ## Hi there.. I am Bharat 👋 from India 🇮🇳
-```javascript
+
 - 🔭 I'm currently working on GoLang, Docker and Kubernetes
 - 🧓 I'm a seasoned programmer in Java, Spring and MongoDB 
 - 🌱 I'm currently learning AWS Cloud along with K8s
@@ -9,7 +9,7 @@
 - 💬 Ask me about Java, SQL or NoSQL database, System designing problems. 
 - 📫 How to reach me: bharatv [at] outlook.in
 - 😄 Pronouns: He/Him/His
-```
+
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
