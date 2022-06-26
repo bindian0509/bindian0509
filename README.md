@@ -51,8 +51,6 @@
     <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="kubernetes"/>
   </a>
 </p>
-</br>
-
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
@@ -102,7 +100,6 @@
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
 </p>
-----
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
   <div>
@@ -113,7 +110,6 @@
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
   </div>
-  </br>
   <div>
     <a  href="https://www.linkedin.com/in/bharatverma/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
@@ -122,7 +118,6 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
   </div>
-  </br>
   <div>
     <a href="https://leetcode.com/bindian0509/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
@@ -146,8 +141,10 @@
 </p>
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-[![](https://github-readme-stats.vercel.app/api?username=bindian0509&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/bindian0509)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=material-palenight)](https://github.com/bindian0509)
+
+[![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bindian0509)](https://github.com/bindian0509/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bindian0509&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 Credit: [bindian0509](https://github.com/bindian0509)
