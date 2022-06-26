@@ -1,11 +1,174 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python, Go and Kubernetes
+- 🔭 I'm currently working on Python, Go and Kubernetes
 - 🧓 I'm a seasoned programmer in Java, Spring and MongoDB 
-- 🌱 I’m currently learning AWS Cloud along with K8s
-- 👯 I’m looking to collaborate on system desiging and coding. 
-- 🤔 I’m looking for help with Docker/Kubernetes 
+- 🌱 I'm currently learning AWS Cloud along with K8s
+- 👯 I'm looking to collaborate on system desiging and coding. 
+- 🤔 I'm looking for help with Docker/Kubernetes 
 - 💬 Ask me about Java, SQL or NoSQL database, System designing problems. 
 - 📫 How to reach me: bharatv [at] outlook.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Join me to find out
+
+<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<p align="center">
+  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+</p>
+</br>
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+      alt="go-lang"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+      alt="PHP"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="python"/>
+  </a>
+</p>
+</br>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+<a href="https://spring.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
+  </a>
+  <a href="https://hibernate.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
+    </a>
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="graphql" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  </a>
+    <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="kubernetes"/>
+  </a>
+</p>
+</br>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/> 
+  </a> 
+  <a href="https://www.mysql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mysql"/> 
+  </a>
+  <a href="https://redis.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
+      alt="redis"/>
+  </a>
+  <a href="https://cassandra.apache.org/_/index.html" target="_blank"> 
+    <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"
+      alt="cassandra"/> 
+  </a>
+
+</p>
+</br>
+
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/> 
+  </a>
+</p>
+</br>
+
+<h3 align="center">Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/bindian0509" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://gitlab.com/bindian0509" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="git"/>
+  </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
+  </a>
+</p>
+
+----
+
+<h3 align="center">Connect with me</h3>
+
+<div style="margin-top:10px" align="center">
+  <div>
+    <a  href="https://dev.to/bindian0509" target="_blank">
+      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://bharatv90s.medium.com/" target="_blank">
+      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+    </a>
+  </div>
+  </br>
+  <div>
+    <a  href="https://www.linkedin.com/in/bharatverma/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+    <a href="https://twitter.com/bindian0509" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    </a>
+  </div>
+  </br>
+  <div>
+    <a href="https://leetcode.com/bindian0509/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
+    </a>
+        <a href="https://bharatv.hashnode.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
+    </a>
+    <a  href="https://stackoverflow.com/users/723817/bharat" target="_blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="example"/>
+    </a>
+
+
+  </div>
+</div>
+</br>
+<h3 align="center">Reach me</h3>
+
+<p align="center">
+  <a  href="https://t.me/PhoneixPerson" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+  </a>
+  <a href="mailto:bharatv@outlook.in?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+  </a>
+</p>
+----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=bindian0509&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/bindian0509)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=material-palenight)](https://github.com/bindian0509)
+</div>
+
+Credit: [bindian0509](https://github.com/bindian0509)
+
+
