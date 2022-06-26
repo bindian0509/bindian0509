@@ -14,8 +14,6 @@
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
-</br>
-
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
@@ -35,8 +33,6 @@
       alt="python"/>
   </a>
 </p>
-</br>
-
 <h3 align="center">Backend</h3>
 <p align="center">
 <a href="https://spring.io/" target="_blank"> 
@@ -75,10 +71,7 @@
     <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"
       alt="cassandra"/> 
   </a>
-
 </p>
-</br>
-
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
@@ -88,8 +81,6 @@
     <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/> 
   </a>
 </p>
-</br>
-
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
@@ -111,11 +102,8 @@
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
   </a>
 </p>
-
 ----
-
 <h3 align="center">Connect with me</h3>
-
 <div style="margin-top:10px" align="center">
   <div>
     <a  href="https://dev.to/bindian0509" target="_blank">
@@ -145,13 +133,9 @@
     <a  href="https://stackoverflow.com/users/723817/bharat" target="_blank">
       <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="example"/>
     </a>
-
-
   </div>
 </div>
-</br>
 <h3 align="center">Reach me</h3>
-
 <p align="center">
   <a  href="https://t.me/PhoneixPerson" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
@@ -160,15 +144,10 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
-----
-
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
 [![](https://github-readme-stats.vercel.app/api?username=bindian0509&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/bindian0509)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=material-palenight)](https://github.com/bindian0509)
 </div>
 
 Credit: [bindian0509](https://github.com/bindian0509)
-
-
