@@ -145,3 +145,5 @@
 </div>
 
 Credit: [bindian0509](https://github.com/bindian0509)
+</br>
+<img src="https://views.whatilearened.today/views/github/bindian0509/bindian0509.svg?cache=remove"/>
