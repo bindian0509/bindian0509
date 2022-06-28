@@ -1,3 +1,5 @@
+
+# GitHub Stats 📈
 ### Hi there.. I am Bharat 👋
 
 - 🔭 I'm currently working on Python, Go and Kubernetes
@@ -139,11 +141,24 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bindian0509)](https://github.com/bindian0509/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bindian0509&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" alt="Bharat's GitHub Stats Graph"/>
+</a>
+<br><br>
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+</a>
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
+</a>
+<br><br>
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bindian0509&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Bharat's GitHub Contributions Graph"/>
+</a>
 </div>
 
 Credit: [bindian0509](https://github.com/bindian0509)
 </br>
 <img src="https://views.whatilearened.today/views/github/bindian0509/bindian0509.svg?cache=remove"/>
+
+<br><br>
