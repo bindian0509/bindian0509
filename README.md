@@ -1,5 +1,4 @@
 
-# GitHub Stats 📈
 ### Hi there.. I am Bharat 👋
 
 - 🔭 I'm currently working on Python, Go and Kubernetes
