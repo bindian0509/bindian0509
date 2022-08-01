@@ -148,6 +148,7 @@
 <a href="https://github.com/bindian0509/bindian0509">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
 </a>
+<h3>Longest vs Current Streak </h3>
 <a href="https://github.com/bindian0509/bindian0509">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
 </a>
