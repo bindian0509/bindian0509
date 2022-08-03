@@ -1,7 +1,7 @@
 
 ### Hi there.. I am Bharat 👋
 
-- 🔭 I'm currently working on Docker, GoLang and Kubernetes
+- 🔭 I'm currently working on GoLang, Docker and Kubernetes
 - 🧓 I'm a seasoned programmer in Java, Spring and MongoDB 
 - 🌱 I'm currently learning AWS Cloud along with K8s
 - 👯 I'm looking to collaborate on system desiging and coding. 
