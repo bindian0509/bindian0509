@@ -108,8 +108,6 @@
     <a href="https://bharatv90s.medium.com/" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
-  </div>
-  <div>
     <a  href="https://www.linkedin.com/in/bharatverma/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
@@ -158,8 +156,7 @@
 </a>
 </div>
 
-Credit: [bindian0509](https://github.com/bindian0509)
-</br>
-<img src="https://views.whatilearened.today/views/github/bindian0509/bindian0509.svg?cache=remove"/>
 
-<br><br>
+## Credit: [BHARAT V](https://linktr.ee/bharatv)
+
+<img src="https://views.whatilearened.today/views/github/bindian0509/bindian0509.svg?cache=remove"/>
