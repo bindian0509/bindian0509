@@ -1,7 +1,7 @@
 
 ## Hi there... I am Bharat 👋 from India
 
-![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)<img src="https://views.whatilearened.today/views/github/bindian0509/bindian0509.svg?cache=remove" alt="Bharat" />
+![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 
 - 🔭 I'm currently working on GoLang, Docker and Kubernetes
 - 🧓 I'm a seasoned programmer in Java, Spring and MongoDB 
