@@ -1,5 +1,5 @@
 
-## Hi there... I am Bharat.. from India 👋 
+## Hey there ... I am Bharat 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 
