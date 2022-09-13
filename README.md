@@ -9,7 +9,7 @@
 - 👯 I'm looking to collaborate on system designing and writing code for microservices. 
 - 🤔 I'm looking for help with Kubernetes on cloud platforms, and gaining AWS proficiency.  
 - 💬 Ask me about Java, SQL or NoSQL database, System designing problems. 
-- 📫 How to reach me: bharatv [at] outlook.in
+- 📫 How to reach me: bharatv [at] outlook.in or on twitter [@bharat](https://twitter.com/bindian0509)
 - 😄 Pronouns: He/Him/His
 
 
