@@ -5,13 +5,12 @@
 
 - 🔭 I'm currently working as Manager of Backend Engineering with GoLang, Docker and Kubernetes
 - 🧓 I'm a seasoned programmer in Java, Spring and MongoDB 
-- 🌱 I'm currently learning AWS Cloud along with K8s
+- 🌱 I'm currently learning AWS Cloud along with K8s and other tech.
 - 👯 I'm looking to collaborate on system designing and writing code for microservices. 
 - 🤔 I'm looking for help with Kubernetes on cloud platforms, and gaining AWS proficiency.  
 - 💬 Ask me about Java, SQL or NoSQL (MongoDB) database, System designing problems. 
 - 📫 How to reach me: bharatv [at] outlook.in or on twitter [@bharat](https://twitter.com/bindian0509)
 - 😄 Pronouns: He/Him/His
-
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
