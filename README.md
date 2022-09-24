@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 
-- 🔭 I'm currently working as Manager of Backend Engineering with GoLang, Docker and Kubernetes
+- 🔭 I'm currently working as Manager of Engineering with GoLang, Docker and Kubernetes
 - 🧓 I'm a seasoned programmer in Java, Spring and MongoDB 
 - 🌱 I'm currently learning AWS Cloud along with K8s and other tech.
 - 👯 I'm looking to collaborate on system designing and writing code for microservices. 
