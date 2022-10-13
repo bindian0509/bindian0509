@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working as Manager of Engineering with GoLang, Docker and Kubernetes
 - 🧓 I'm a seasoned programmer in Java, Spring, Hibernate and MongoDB 
-- 🌱 I'm currently learning AWS Cloud along with K8s and other tech.
+- 🌱 I'm currently learning AWS Cloud along with K8s and working on getting SAA-C03 (AWS-ASA).
 - 👯 I'm looking to collaborate on system designing and writing code for microservices. 
 - 🤔 I'm looking for help with Kubernetes on cloud platforms, and gaining AWS proficiency.  
 - 💬 Ask me about Java, SQL or NoSQL (MongoDB) database, System designing problems. 
