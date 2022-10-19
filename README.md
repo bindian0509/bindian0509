@@ -158,6 +158,6 @@
 </div>
 
 
-## Credit: [BHARAT](https://linktr.ee/bharatv)
+## Credit: [Bharat](https://linktr.ee/bharatv)
 
 <img src="https://views.whatilearened.today/views/github/bindian0509/bindian0509.svg?cache=remove"/>
