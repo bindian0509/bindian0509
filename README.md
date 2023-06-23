@@ -3,12 +3,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 
-- 🔭 I'm currently working as Manager, Engineering working on AWS, GoLang, and Kubernetes
-- 🧓 I'm a seasoned programmer in Java specializes in building backend with Spring, Hibernate, MySQL and MongoDB
+- 🔭 I'm currently working as Director, Software Engineering working on PHP, Symfony, MS-SQL, Docker, and Kubernetes over Azure. 
+- 🧓 I'm a seasoned programmer in Java who specializes in building backend architecture with Spring, Hibernate, MySQL, and MongoDB
 - 🌱 I'm currently learning AWS Cloud along with K8s and working on getting SAA-C03 (AWS-ASA).
 - 👯 I'm looking to collaborate on system designing and writing code for microservices.
 - 🤔 I'm looking for help with Kubernetes on cloud platforms, and gaining AWS proficiency.
-- 💬 Ask me about Java, SQL or NoSQL (MongoDB) database, System designing problems.
+- 💬 Ask me about Java, SQL, or NoSQL (MongoDB) database, System designing problems.
 - 📫 How to reach me: bharatv [at] outlook.in or via following [@bharat](https://linktree.com/bharatv)
 - 😄 Pronouns: He/Him/His
 - 🕊️ Follow me on twitter at [@iAmBharatv](https://twitter.com/iambharatv)
