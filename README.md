@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 
-- 🔭 I'm currently working as Director, Software Engineering working on PHP, Symfony, MS-SQL, Docker, and Kubernetes over Azure. 
+- 🔭 I'm currently working as Director, Software Engineering working on PHP, Symfony, MS-SQL, Docker, and Kubernetes over Azure.
 - 🧓 I'm a seasoned programmer in Java who specializes in building backend architecture with Spring, Hibernate, MySQL, and MongoDB
 - 🌱 I'm currently learning AWS Cloud along with K8s and working on getting SAA-C03 (AWS-ASA).
 - 👯 I'm looking to collaborate on system designing and writing code for microservices.
@@ -154,7 +154,7 @@
 </a>
 <br><br>
 <a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=bindian0509&theme=github" alt="Bharat's GitHub Contributions Graph"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bindian0509&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=false" alt="Bharat's GitHub Contributions Graph"/>
 </a>
 </div>
 
