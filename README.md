@@ -3,9 +3,9 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
 
-- 🔭 I'm currently working as Director, Software Engineering working on PHP, Symfony, MS-SQL, Docker, and Kubernetes over Azure.
+- 🔭 I'm currently working as Senior Engineering Manager at [Razorpay](https://razorpay.com/)💰🚀 working on Go, Java, Kubernetes for Cards Team. 💳
 - 🧓 I'm a seasoned programmer in Java who specializes in building backend architecture with Spring, MySQL, Kafka, Redis, Elasticsearch, MongoDB, AWS, Cassandra
-- 👯 I'm looking to collaborate on - Backend System Design | Generative AI | Buidling and Improving CI/CD pipelines | App Development 
+- 👯 I'm looking to collaborate on - Backend System Design | Exploring AI - RAG, LLMs, CAG, MCP | Builiding AI Agents | Buidling and Improving CI/CD pipelines | App Development
 - 💬 Ask me about Java, SQL, or NoSQL (MongoDB) database, System designing problems.
 - 📫 How to reach me: bharatv [at] outlook.in or via following [@bharat](https://linktree.com/bharatv)
 - 😄 Pronouns: He/Him/His
