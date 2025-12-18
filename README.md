@@ -24,7 +24,7 @@ domains:
   - Engineering Leadership 🚀
 currently_working_on:
   - Cards Recurring & E-Mandate Platform (15K TPS, ₹600-900 Cr/day volume) 💳
-  - Cards Growth initiatives 💰
+  - Cards Growth initiatives (pay with partners project) 💰
   - Re-architecting legacy systems to scalable microservices 🌐
 learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
 ```
@@ -39,35 +39,6 @@ learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
 | **Tech Lead & EM**                 | MobiKwik 💰          | Nov 2016 – Feb 2021 | Built teams 0→12, 40+ hires   |
 | **Staff Engineer**                 | ShopClues 🛒         | Sep 2015 – Nov 2016 | Catalogue Platform Lead       |
 | **Senior Engineer**                | InfoEdge (Naukri) 📋 | Nov 2011 – May 2015 | Platform Modernization        |
-
----
-
-## 🏆 Key Achievements
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 At Razorpay
-
-- 🎯 Reduced transaction latency **10s → 2s**
-- 📈 **99.9%** effective uptime for card payments
-- 💰 Cut logging costs **9p → 3p** per transaction
-- 🚀 Delivered **Cred Pay** & **Apple Pay** integrations
-
-</td>
-<td width="50%">
-
-### 🌟 Previous Roles
-
-- 💵 **$660K** annual COGS savings @ Acquia
-- 📦 **30K → 100K** products/day ingestion @ ShopClues
-- 📈 Grew GMV **₹181Cr → ₹210Cr/month** @ MobiKwik
-- ⚡ Email SLA improved **3PM → 11AM** @ Naukri
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -234,7 +205,7 @@ learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://leetcode.com/bindian0509/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
@@ -304,7 +275,7 @@ learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
 
 ---
 
-## 💬 Ask Me About
+## 💬 Ask Me About (Also for Interview Preparation Help)
 
 - **System Design** → Distributed systems, microservices, high-scale architectures
 - **Payment Systems** → Card payments, recurring transactions, PCI compliance
