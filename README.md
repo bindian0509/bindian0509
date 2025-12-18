@@ -1,161 +1,333 @@
+<div align="center">
 
-## Hey there ... I am Bharat 👋
+# Hey there, I'm Bharat Verma 👋
 
-![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=650&lines=Senior+Engineering+Manager+%40+Razorpay;15%2B+Years+in+Backend+%26+Distributed+Systems;Building+High-Scale+Payment+Platforms;Leading+Teams+%7C+Architecting+Solutions)](https://git.io/typing-svg)
 
-- 🔭 I'm currently working as Senior Engineering Manager at [Razorpay](https://razorpay.com/)💰🚀 working on Go, Java, Kubernetes for Cards Team. 💳
-- 🧓 I'm a seasoned programmer in Java who specializes in building backend architecture with Spring, MySQL, Kafka, Redis, Elasticsearch, MongoDB, AWS, Cassandra
-- 👯 I'm looking to collaborate on - Backend System Design | Exploring AI - RAG, LLMs, CAG, MCP | Builiding AI Agents | Buidling and Improving CI/CD pipelines | App Development
-- 💬 Ask me about Java, SQL, or NoSQL (MongoDB) database, System designing problems.
-- 📫 How to reach me: bharatv [at] outlook.in or via following [@bharat](https://linktree.com/bharatv)
-- 😄 Pronouns: He/Him/His
-- 🕊️ Follow me on twitter at [@iAmBharatv](https://twitter.com/iambharatv)
+![GitHub followers](https://img.shields.io/github/followers/bindian0509?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bindian0509?style=social) [![LinkedIn](https://img.shields.io/badge/-Bharat%20Verma-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bharatverma) [![Twitter](https://img.shields.io/badge/-@iAmBharatv-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iambharatv)
 
+</div>
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+---
+
+## 🚀 About Me
+
+```yaml
+name: Bharat Verma
+location: Pune, India 🇮🇳
+current_role: Senior Engineering Manager @ Razorpay 💳
+experience: 15+ years ⏳
+domains:
+  - Fintech & Payment Systems 💰
+  - Distributed Systems & Microservices 🌐
+  - Cloud-Native Platforms 🌐
+  - Engineering Leadership 🚀
+currently_working_on:
+  - Cards Recurring & E-Mandate Platform (15K TPS, ₹600-900 Cr/day volume) 💳
+  - Cards Growth initiatives 💰
+  - Re-architecting legacy systems to scalable microservices 🌐
+learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
+```
+
+## 💼 Professional Journey
+
+| Role                               | Company              | Period              | Scale                         |
+| ---------------------------------- | -------------------- | ------------------- | ----------------------------- |
+| **Senior Engineering Manager**     | Razorpay 💳          | Mar 2025 – Present  | 21 engineers, 3 pods, 15K TPS |
+| **Director, Software Engineering** | Guidepoint Global 🌐 | Jun 2023 – Feb 2025 | India Engineering Pods        |
+| **Engineering Manager**            | Acquia ☁️            | Feb 2021 – Jun 2023 | Cloud Data & Migrations       |
+| **Tech Lead & EM**                 | MobiKwik 💰          | Nov 2016 – Feb 2021 | Built teams 0→12, 40+ hires   |
+| **Staff Engineer**                 | ShopClues 🛒         | Sep 2015 – Nov 2016 | Catalogue Platform Lead       |
+| **Senior Engineer**                | InfoEdge (Naukri) 📋 | Nov 2011 – May 2015 | Platform Modernization        |
+
+---
+
+## 🏆 Key Achievements
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 At Razorpay
+
+- 🎯 Reduced transaction latency **10s → 2s**
+- 📈 **99.9%** effective uptime for card payments
+- 💰 Cut logging costs **9p → 3p** per transaction
+- 🚀 Delivered **Cred Pay** & **Apple Pay** integrations
+
+</td>
+<td width="50%">
+
+### 🌟 Previous Roles
+
+- 💵 **$660K** annual COGS savings @ Acquia
+- 📦 **30K → 100K** products/day ingestion @ ShopClues
+- 📈 Grew GMV **₹181Cr → ₹210Cr/month** @ MobiKwik
+- ⚡ Email SLA improved **3PM → 11AM** @ Naukri
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
-      alt="java"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
-      alt="go-lang"/>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go-lang"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-      alt="PHP"/>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-      alt="python"/>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell"/>
   </a>
 </p>
-<h3 align="center">Backend</h3>
+
+<h3 align="center">Backend & Frameworks</h3>
 <p align="center">
-<a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" />
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" />
   </a>
   <a href="https://hibernate.org/" target="_blank">
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " />
-    </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="graphql" />
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate" />
   </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  <a href="https://echo.labstack.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Echo_(Go)-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="echo" />
   </a>
-    <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="kubernetes"/>
+  <a href="https://symfony.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="symfony" />
   </a>
 </p>
-<h3 align="center">Database</h3>
+
+<h3 align="center">Databases & Caching</h3>
 <p align="center">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
-  <a href="https://www.mysql.org" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"/>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+  </a>
+  <a href="https://cassandra.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" alt="cassandra"/>
   </a>
   <a href="https://redis.io" target="_blank">
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
   </a>
-  <a href="https://cassandra.apache.org/_/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"
-      alt="cassandra"/>
+  <a href="https://www.elastic.co" target="_blank">
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch"/>
   </a>
 </p>
-<h3 align="center">Cloud & Hosting:</h3>
+
+<h3 align="center">Message Queues & Streaming</h3>
+<p align="center">
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka" />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" />
+  </a>
+  <a href="https://aws.amazon.com/sqs/" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white" alt="sqs" />
+  </a>
+</p>
+
+<h3 align="center">Cloud & Infrastructure</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="aws"/>
   </a>
   <a href="https://cloud.google.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/>
   </a>
 </p>
-<h3 align="center">Version Control & CI/CD</h3>
+
+<h3 align="center">DevOps & CI/CD</h3>
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/bindian0509" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://gitlab.com/bindian0509" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github-actions"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+  </a>
+  <a href="https://argoproj.github.io/cd/" target="_blank">
+    <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="argocd"/>
+  </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a>
 </p>
-<h3 align="center">Connect with me</h3>
-<div style="margin-top:10px" align="center">
-  <div>
-    <a  href="https://dev.to/bindian0509" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://bharatv90s.medium.com/" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
-    <a  href="https://www.linkedin.com/in/bharatverma/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-    </a>
-    <a href="https://twitter.com/bindian0509" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-  </div>
-  <div>
-    <a href="https://leetcode.com/bindian0509/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
-    </a>
-        <a href="https://bharatv.hashnode.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
-    </a>
-    <a  href="https://stackoverflow.com/users/723817/bharat" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="example"/>
-    </a>
-  </div>
-</div>
-<h3 align="center">Reach me via</h3>
+
+<h3 align="center">Observability & Monitoring</h3>
 <p align="center">
-  <a  href="https://t.me/PhoneixPerson" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+  <a href="https://www.datadoghq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="datadog"/>
   </a>
-  <a href="mailto:bharatv@outlook.in?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus"/>
+  </a>
+  <a href="https://opentelemetry.io/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="opentelemetry"/>
   </a>
 </p>
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
 
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" alt="Bharat's GitHub Stats Graph"/>
-</a>
-<br><br>
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
-</a>
-<h3>Longest vs Current Streak </h3>
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
-</a>
-<br><br>
-<a href="https://github.com/bindian0509/bindian0509">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bindian0509&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=false" alt="Bharat's GitHub Contributions Graph"/>
-</a>
+---
+
+## 🎯 Leadership Focus Areas
+
+<div align="center">
+
+|       👥 People        |   🏗️ Architecture    |     📈 Delivery     |
+| :--------------------: | :------------------: | :-----------------: |
+|     Team Building      |    Microservices     |     SLI/SLO/SLA     |
+|   Hiring & Mentoring   |     Cloud-Native     | Incident Management |
+| Performance Management | Platform Reliability |  Cost Optimization  |
+| Organizational Design  |  Payments & Fintech  |  CI/CD Excellence   |
+
 </div>
 
-## Credit: [BHARAT](https://linktr.ee/bharatv)
+---
 
-<img src="https://views.whatilearened.today/views/github/bindian0509/bindian0509.svg?cache=remove"/>
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/bharatverma" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://twitter.com/iambharatv" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+</a>
+<a href="https://dev.to/bindian0509" target="_blank">
+  <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto"/>
+</a>
+<a href="https://bharatv90s.medium.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
+</a>
+<a href="https://bharatv.hashnode.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/bindian0509/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
+</a>
+<a href="https://stackoverflow.com/users/723817/bharat" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"/>
+</a>
+<a href="https://github.com/bindian0509" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a>
+<a href="https://gitlab.com/bindian0509" target="_blank">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
+</a>
+
+</div>
+
+---
+
+## 📬 Reach Me
+
+<div align="center">
+
+<a href="mailto:bharatv@outlook.in?subject=Hello%20from%20GitHub&body=Hi%20Bharat," target="_blank">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"/>
+</a>
+<a href="https://t.me/PhoneixPerson" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+</a>
+<a href="https://linktr.ee/bharatv" target="_blank">
+  <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/bindian0509">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=github_dark" alt="GitHub Profile Summary"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/bindian0509">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/bindian0509">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindian0509&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/bindian0509">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/bindian0509">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bindian0509&theme=github-dark&hide_border=true&area=true" alt="Activity Graph"/>
+</a>
+
+</div>
+
+---
+
+## 💬 Ask Me About
+
+- **System Design** → Distributed systems, microservices, high-scale architectures
+- **Payment Systems** → Card payments, recurring transactions, PCI compliance
+- **Engineering Leadership** → Team building, hiring, performance management
+- **Tech Stack** → Java, Go, Spring Boot, Kubernetes, AWS, Kafka
+- **DevOps** → CI/CD pipelines, infrastructure as code, observability
+
+---
+
+<div align="center">
+
+### 🌟 _"Building reliable payment systems that process billions while leading teams that scale."_
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bindian0509&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+**⭐ Star my repos if you find them useful!**
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Last updated: December 2025 | Pune, India 🇮🇳</sub>
+</div>
