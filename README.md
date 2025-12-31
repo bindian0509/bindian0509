@@ -256,7 +256,10 @@ learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/bindian0509">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindian0509&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bindian0509&theme=github_dark" alt="Top Languages by Repo"/>
+</a>
+<a href="https://github.com/bindian0509">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bindian0509&theme=github_dark" alt="Top Languages by Commit"/>
 </a>
 
 <br/>
