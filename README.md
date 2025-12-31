@@ -253,8 +253,14 @@ learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
 <br/>
 
 <a href="https://github.com/bindian0509">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bindian0509&theme=github_dark" alt="GitHub Stats"/>
 </a>
+<a href="https://github.com/bindian0509">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bindian0509&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</a>
+
+<br/>
+
 <a href="https://github.com/bindian0509">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bindian0509&theme=github_dark" alt="Top Languages by Repo"/>
 </a>
