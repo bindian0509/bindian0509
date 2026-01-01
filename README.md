@@ -247,37 +247,37 @@ learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
 <div align="center">
 
 <a href="https://github.com/bindian0509">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=github_dark" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox" alt="GitHub Profile Summary"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/bindian0509">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bindian0509&theme=github_dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bindian0509&theme=gruvbox" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/bindian0509">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bindian0509&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/bindian0509">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bindian0509&theme=github_dark" alt="Top Languages by Repo"/>
-</a>
-<a href="https://github.com/bindian0509">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bindian0509&theme=github_dark" alt="Top Languages by Commit"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bindian0509&theme=gruvbox&utcOffset=5.5" alt="Productive Time"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/bindian0509">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bindian0509&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bindian0509&theme=gruvbox" alt="Top Languages by Repo"/>
+</a>
+<a href="https://github.com/bindian0509">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bindian0509&theme=gruvbox" alt="Top Languages by Commit"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/bindian0509">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bindian0509&theme=github-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bindian0509&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/bindian0509">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bindian0509&theme=gruvbox&hide_border=true&area=true" alt="Activity Graph"/>
 </a>
 
 </div>
