@@ -231,7 +231,7 @@ learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
 <a href="mailto:bharatv@outlook.in?subject=Hello%20from%20GitHub&body=Hi%20Bharat," target="_blank">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"/>
 </a>
-<a href="https://t.me/PhoneixPerson" target="_blank">
+<a href="https://t.me/BIRD_PERSON_27" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
 </a>
 <a href="https://linktr.ee/bharatv" target="_blank">
@@ -271,7 +271,7 @@ learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
 <br/>
 
 <a href="https://github.com/bindian0509">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=bindian0509&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 <br/>
