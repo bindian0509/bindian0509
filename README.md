@@ -15,8 +15,8 @@
 ```yaml
 name: Bharat Verma
 location: Pune, India 🇮🇳
-current_role: Senior Engineering Manager @ Razorpay 💳
-experience: 15+ years ⏳
+current_role: Director of Platform Engineering @AssetMark 💳
+experience: 16+ years ⏳
 domains:
   - Fintech & Payment Systems 💰
   - Distributed Systems & Microservices 🌐
@@ -33,7 +33,7 @@ learning: AI/ML - RAG, LLMs, CAG, MCP, Building AI Agents 🤖
 
 | Role                               | Company              | Period              | Scale                         |
 | ---------------------------------- | -------------------- | ------------------- | ----------------------------- |
-| **Senior Engineering Manager**     | Razorpay 💳          | Mar 2025 – Present  | 21 engineers, 3 pods, 15K TPS |
+| **Senior Engineering Manager**     | Razorpay 💳          | Mar 2025 – Apr 2026 | 21 engineers, 3 pods, 15K TPS |
 | **Director, Software Engineering** | Guidepoint Global 🌐 | Jun 2023 – Feb 2025 | India Engineering Pods        |
 | **Engineering Manager**            | Acquia ☁️            | Feb 2021 – Jun 2023 | Cloud Data & Migrations       |
 | **Tech Lead & EM**                 | MobiKwik 💰          | Nov 2016 – Feb 2021 | Built teams 0→12, 40+ hires   |
